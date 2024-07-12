@@ -87,13 +87,17 @@ function myAbout() {
  }
 
 function showPortfolio() {
-    window.open('asset/resume.jpg', '_blank');
+    window.open('asset/resume.jpg', '_parent');
 }
 
 function myProject1(){
   window.open("https://jagjotsingh7935.github.io/Weather-App/");
   
 };
+
+function myProject0() {
+  window.open("https://jagjotsingh7935.github.io/Quiz-app/");
+  }
 
 function myProject2() { 
   window.open("https://jagjotsingh7935.github.io/Temperature-converter/");
