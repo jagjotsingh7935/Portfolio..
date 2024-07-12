@@ -43,25 +43,7 @@ var swiper = new Swiper(".mySwiper", {
   // let por_btn = document.querySelector(".btn-container").querySelectorAll(".btn");
   let por_item = document.querySelector(".grid-row").querySelectorAll(".col");
   
-  // por_btn.forEach((btn)=>{
-  //   btn.addEventListener("click",(e)=>{
-  //       por_btn.forEach((btn)=>{
-  //           btn.classList.remove("active");
-  //       })
-  //       e.target.classList.add("active");
-  //       let data_btn = btn.getAttribute("data-btn");
-  //       por_item.forEach((item)=>{
-  //           let data_item = item.getAttribute("data-item");
-  //           if(data_btn== data_item || data_btn=="all"){
-  //               item.classList.remove("hide");
 
-  //           }else{
-  //               item.classList.add("hide");
-  //           }
-  //       })
-  //   })
-
-  // })
 
 
 let burger_icon = document.querySelector(".responsive_icon");
