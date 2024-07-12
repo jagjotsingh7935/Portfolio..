@@ -517,7 +517,7 @@ main .col:nth-child(2) .social-icon i {
 /* about section start */
 
 .about {
-    height: 100vh;
+    height: 80vh;
 }
 
 .about .row {
@@ -1080,7 +1080,7 @@ footer{
 
 @media (max-width: 600px) {
    .about {
-       margin-bottom: 300px;
+       margin-bottom: -100px;
    }
 
    .about .col:nth-child(2) {
